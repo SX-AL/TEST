@@ -16,4 +16,3 @@
 <img src="http://besiptv.com/_autoindex/icons/compress.png" alt="QNTS"> <a href="http://besiptv.com/quantis/STB_4K.zip">STB_4K.zip</a>                                                                       02-Dec-2019 23:57   31864k       
 </pre><hr><address>Proudly Served by QUANTIS MEDIA</address>
 </body>
-</html>
