@@ -2,7 +2,7 @@
   <head>
   <meta http-equiv="Content-type" content="text/html; charset=UTF-8"/>
   <body>
-    <h1>#QUANTISMEDIA.com</h1><pre><img src="http://besiptv.com/_autoindex/icons/blank.png" alt="  "> <a href='?ND'>Name</a><a href='?MA'>Last modified</a>         <a href='?SA'>Size</a>  <a href='?DA'>Description </a>
+    <h1>#QUANTISMEDIA.com</h1><pre><img src="http://besiptv.com/_autoindex/icons/blank.png" alt="  "> <a href='?ND'>Name</a>    <a href='?MA'>Last modified</a>    <a href='?DA'>Description </a>
 <hr><img src="http://besiptv.com/_autoindex/icons/up.png" alt="up"> <a href="http://besiptv.com/quantis">Parent Directory #HOME</a>       Updated         16-May-2020 13:27               
 <img src="http://besiptv.com/_autoindex/icons/unknown.png" alt="NEW"> <a href="http://besiptv.com/quantis/NEW_DNS_QNTS%20TV%20%5B1.1%5D_STB.apk">NEW_DNS_QNTS TV [1.1]_STB.apk</a>
 <img src="http://besiptv.com/_autoindex/icons/compress.png" alt="[CMP]"> <a href="http://besiptv.com/quantis/NEW_DNS_QNTS%20TV%20%5B1.1%5D_STB.zip">NEW_DNS_QNTS TV [1.1]_STB.zip</a>
